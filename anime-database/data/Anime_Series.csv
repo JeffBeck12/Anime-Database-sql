@@ -1,0 +1,13 @@
+series_id,title,studio_id,genre_id,release_year,rating,status
+1,Skybound Couriers,1,1,2020,8.4,Completed
+2,Lanterns of the Vale,2,2,2021,8.1,Completed
+3,Autumn Letters,4,3,2022,7.6,Completed
+4,Orbit Garden,3,4,2023,8.8,Completed
+5,Cafe Comet,2,5,2024,7.2,Completed
+6,Tidewalkers,1,1,2020,8.0,Completed
+7,The Glass Kingdom,4,2,2021,8.6,Completed
+8,Quiet Platform,2,3,2022,7.9,Completed
+9,Neon Atlas,3,4,2023,8.3,Completed
+10,Pocket Parade,2,5,2024,7.4,Completed
+11,Wild Horizon,1,1,2020,8.7,Completed
+12,Starlight Orchard,4,2,2021,8.2,Ongoing

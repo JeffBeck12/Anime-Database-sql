@@ -1,0 +1,5 @@
+# Validation
+
+Local validation executed all six translated CREATE TABLE statements, all actual seed INSERTs and all ten analysis queries in SQLite with foreign keys enabled. Only the MySQL ENGINE clause was removed from table DDL; database creation and USE statements were omitted. All five foreign-key relationships are consistent. Counts: 4 studios, 5 genres, 12 series, 128 episodes, 8 actors and 36 characters. Episode sequences start at 1 without gaps, and air dates do not precede release years. Six negative cases were rejected: orphan studio reference, rating above 10, duplicate episode number, negative duration, referenced-parent deletion and invalid character role.
+
+This verifies seed integrity and portable query behavior, not MySQL-specific types, collation or server execution. A MySQL client/server is not installed in the generation environment. The included GitHub workflow runs the actual scripts on MySQL 8.4 and asserts table counts, orphan counts and episode sequences. It has not been run here. Expected query results are included as CSVs; ordering and string collation can differ between engines. See validation_report.json for machine-readable results.

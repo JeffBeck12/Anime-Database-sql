@@ -1,0 +1,129 @@
+episode_id,series_id,episode_number,title,duration_minutes,air_date
+1,1,1,Skybound Couriers: Chapter 1,24,2020-01-07
+2,1,2,Skybound Couriers: Chapter 2,25,2020-01-14
+3,1,3,Skybound Couriers: Chapter 3,22,2020-01-21
+4,1,4,Skybound Couriers: Chapter 4,23,2020-01-28
+5,1,5,Skybound Couriers: Chapter 5,24,2020-02-04
+6,1,6,Skybound Couriers: Chapter 6,25,2020-02-11
+7,1,7,Skybound Couriers: Chapter 7,22,2020-02-18
+8,1,8,Skybound Couriers: Chapter 8,23,2020-02-25
+9,1,9,Skybound Couriers: Chapter 9,24,2020-03-03
+10,1,10,Skybound Couriers: Chapter 10,25,2020-03-10
+11,1,11,Skybound Couriers: Chapter 11,22,2020-03-17
+12,1,12,Skybound Couriers: Chapter 12,23,2020-03-24
+13,2,1,Lanterns of the Vale: Chapter 1,25,2021-01-07
+14,2,2,Lanterns of the Vale: Chapter 2,22,2021-01-14
+15,2,3,Lanterns of the Vale: Chapter 3,23,2021-01-21
+16,2,4,Lanterns of the Vale: Chapter 4,24,2021-01-28
+17,2,5,Lanterns of the Vale: Chapter 5,25,2021-02-04
+18,2,6,Lanterns of the Vale: Chapter 6,22,2021-02-11
+19,2,7,Lanterns of the Vale: Chapter 7,23,2021-02-18
+20,2,8,Lanterns of the Vale: Chapter 8,24,2021-02-25
+21,2,9,Lanterns of the Vale: Chapter 9,25,2021-03-04
+22,2,10,Lanterns of the Vale: Chapter 10,22,2021-03-11
+23,2,11,Lanterns of the Vale: Chapter 11,23,2021-03-18
+24,2,12,Lanterns of the Vale: Chapter 12,24,2021-03-25
+25,3,1,Autumn Letters: Chapter 1,22,2022-01-07
+26,3,2,Autumn Letters: Chapter 2,23,2022-01-14
+27,3,3,Autumn Letters: Chapter 3,24,2022-01-21
+28,3,4,Autumn Letters: Chapter 4,25,2022-01-28
+29,3,5,Autumn Letters: Chapter 5,22,2022-02-04
+30,3,6,Autumn Letters: Chapter 6,23,2022-02-11
+31,3,7,Autumn Letters: Chapter 7,24,2022-02-18
+32,3,8,Autumn Letters: Chapter 8,25,2022-02-25
+33,3,9,Autumn Letters: Chapter 9,22,2022-03-04
+34,3,10,Autumn Letters: Chapter 10,23,2022-03-11
+35,4,1,Orbit Garden: Chapter 1,23,2023-01-07
+36,4,2,Orbit Garden: Chapter 2,24,2023-01-14
+37,4,3,Orbit Garden: Chapter 3,25,2023-01-21
+38,4,4,Orbit Garden: Chapter 4,22,2023-01-28
+39,4,5,Orbit Garden: Chapter 5,23,2023-02-04
+40,4,6,Orbit Garden: Chapter 6,24,2023-02-11
+41,4,7,Orbit Garden: Chapter 7,25,2023-02-18
+42,4,8,Orbit Garden: Chapter 8,22,2023-02-25
+43,4,9,Orbit Garden: Chapter 9,23,2023-03-04
+44,4,10,Orbit Garden: Chapter 10,24,2023-03-11
+45,4,11,Orbit Garden: Chapter 11,25,2023-03-18
+46,4,12,Orbit Garden: Chapter 12,22,2023-03-25
+47,4,13,Orbit Garden: Chapter 13,23,2023-04-01
+48,5,1,Cafe Comet: Chapter 1,24,2024-01-07
+49,5,2,Cafe Comet: Chapter 2,25,2024-01-14
+50,5,3,Cafe Comet: Chapter 3,22,2024-01-21
+51,5,4,Cafe Comet: Chapter 4,23,2024-01-28
+52,5,5,Cafe Comet: Chapter 5,24,2024-02-04
+53,5,6,Cafe Comet: Chapter 6,25,2024-02-11
+54,5,7,Cafe Comet: Chapter 7,22,2024-02-18
+55,5,8,Cafe Comet: Chapter 8,23,2024-02-25
+56,6,1,Tidewalkers: Chapter 1,25,2020-01-07
+57,6,2,Tidewalkers: Chapter 2,22,2020-01-14
+58,6,3,Tidewalkers: Chapter 3,23,2020-01-21
+59,6,4,Tidewalkers: Chapter 4,24,2020-01-28
+60,6,5,Tidewalkers: Chapter 5,25,2020-02-04
+61,6,6,Tidewalkers: Chapter 6,22,2020-02-11
+62,6,7,Tidewalkers: Chapter 7,23,2020-02-18
+63,6,8,Tidewalkers: Chapter 8,24,2020-02-25
+64,6,9,Tidewalkers: Chapter 9,25,2020-03-03
+65,6,10,Tidewalkers: Chapter 10,22,2020-03-10
+66,6,11,Tidewalkers: Chapter 11,23,2020-03-17
+67,6,12,Tidewalkers: Chapter 12,24,2020-03-24
+68,7,1,The Glass Kingdom: Chapter 1,22,2021-01-07
+69,7,2,The Glass Kingdom: Chapter 2,23,2021-01-14
+70,7,3,The Glass Kingdom: Chapter 3,24,2021-01-21
+71,7,4,The Glass Kingdom: Chapter 4,25,2021-01-28
+72,7,5,The Glass Kingdom: Chapter 5,22,2021-02-04
+73,7,6,The Glass Kingdom: Chapter 6,23,2021-02-11
+74,7,7,The Glass Kingdom: Chapter 7,24,2021-02-18
+75,7,8,The Glass Kingdom: Chapter 8,25,2021-02-25
+76,7,9,The Glass Kingdom: Chapter 9,22,2021-03-04
+77,7,10,The Glass Kingdom: Chapter 10,23,2021-03-11
+78,7,11,The Glass Kingdom: Chapter 11,24,2021-03-18
+79,7,12,The Glass Kingdom: Chapter 12,25,2021-03-25
+80,8,1,Quiet Platform: Chapter 1,23,2022-01-07
+81,8,2,Quiet Platform: Chapter 2,24,2022-01-14
+82,8,3,Quiet Platform: Chapter 3,25,2022-01-21
+83,8,4,Quiet Platform: Chapter 4,22,2022-01-28
+84,8,5,Quiet Platform: Chapter 5,23,2022-02-04
+85,8,6,Quiet Platform: Chapter 6,24,2022-02-11
+86,8,7,Quiet Platform: Chapter 7,25,2022-02-18
+87,8,8,Quiet Platform: Chapter 8,22,2022-02-25
+88,8,9,Quiet Platform: Chapter 9,23,2022-03-04
+89,8,10,Quiet Platform: Chapter 10,24,2022-03-11
+90,9,1,Neon Atlas: Chapter 1,24,2023-01-07
+91,9,2,Neon Atlas: Chapter 2,25,2023-01-14
+92,9,3,Neon Atlas: Chapter 3,22,2023-01-21
+93,9,4,Neon Atlas: Chapter 4,23,2023-01-28
+94,9,5,Neon Atlas: Chapter 5,24,2023-02-04
+95,9,6,Neon Atlas: Chapter 6,25,2023-02-11
+96,9,7,Neon Atlas: Chapter 7,22,2023-02-18
+97,9,8,Neon Atlas: Chapter 8,23,2023-02-25
+98,9,9,Neon Atlas: Chapter 9,24,2023-03-04
+99,9,10,Neon Atlas: Chapter 10,25,2023-03-11
+100,9,11,Neon Atlas: Chapter 11,22,2023-03-18
+101,9,12,Neon Atlas: Chapter 12,23,2023-03-25
+102,9,13,Neon Atlas: Chapter 13,24,2023-04-01
+103,10,1,Pocket Parade: Chapter 1,25,2024-01-07
+104,10,2,Pocket Parade: Chapter 2,22,2024-01-14
+105,10,3,Pocket Parade: Chapter 3,23,2024-01-21
+106,10,4,Pocket Parade: Chapter 4,24,2024-01-28
+107,10,5,Pocket Parade: Chapter 5,25,2024-02-04
+108,10,6,Pocket Parade: Chapter 6,22,2024-02-11
+109,10,7,Pocket Parade: Chapter 7,23,2024-02-18
+110,10,8,Pocket Parade: Chapter 8,24,2024-02-25
+111,11,1,Wild Horizon: Chapter 1,22,2020-01-07
+112,11,2,Wild Horizon: Chapter 2,23,2020-01-14
+113,11,3,Wild Horizon: Chapter 3,24,2020-01-21
+114,11,4,Wild Horizon: Chapter 4,25,2020-01-28
+115,11,5,Wild Horizon: Chapter 5,22,2020-02-04
+116,11,6,Wild Horizon: Chapter 6,23,2020-02-11
+117,11,7,Wild Horizon: Chapter 7,24,2020-02-18
+118,11,8,Wild Horizon: Chapter 8,25,2020-02-25
+119,11,9,Wild Horizon: Chapter 9,22,2020-03-03
+120,11,10,Wild Horizon: Chapter 10,23,2020-03-10
+121,11,11,Wild Horizon: Chapter 11,24,2020-03-17
+122,11,12,Wild Horizon: Chapter 12,25,2020-03-24
+123,12,1,Starlight Orchard: Chapter 1,23,2021-01-07
+124,12,2,Starlight Orchard: Chapter 2,24,2021-01-14
+125,12,3,Starlight Orchard: Chapter 3,25,2021-01-21
+126,12,4,Starlight Orchard: Chapter 4,22,2021-01-28
+127,12,5,Starlight Orchard: Chapter 5,23,2021-02-04
+128,12,6,Starlight Orchard: Chapter 6,24,2021-02-11

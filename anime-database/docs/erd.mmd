@@ -1,0 +1,45 @@
+erDiagram
+    Studio ||--o{ Anime_Series : produces
+    Genres ||--o{ Anime_Series : classifies
+    Anime_Series ||--o{ Episodes : contains
+    Anime_Series ||--o{ Main_Character : features
+    Voice_Actor ||--o{ Main_Character : voices
+    Studio {
+        INT studio_id PK
+        VARCHAR studio_name
+        VARCHAR country
+    }
+    Genres {
+        INT genre_id PK
+        VARCHAR genre_name
+        VARCHAR description
+    }
+    Anime_Series {
+        INT series_id PK
+        VARCHAR title
+        INT studio_id FK
+        INT genre_id FK
+        SMALLINT release_year
+        DECIMAL rating
+        VARCHAR status
+    }
+    Episodes {
+        INT episode_id PK
+        INT series_id FK
+        SMALLINT episode_number
+        VARCHAR title
+        SMALLINT duration_minutes
+        DATE air_date
+    }
+    Voice_Actor {
+        INT actor_id PK
+        VARCHAR actor_name
+        VARCHAR language
+    }
+    Main_Character {
+        INT character_id PK
+        INT series_id FK
+        INT actor_id FK
+        VARCHAR character_name
+        VARCHAR role
+    }

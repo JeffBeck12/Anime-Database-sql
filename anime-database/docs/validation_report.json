@@ -1,0 +1,65 @@
+{
+  "method": "Actual MySQL DDL translated only by removing ENGINE=InnoDB, then executed in SQLite with foreign_keys=ON. Actual seed INSERTs and all 10 analysis queries executed. This is not a MySQL server test.",
+  "counts": {
+    "Studio": 4,
+    "Genres": 5,
+    "Anime_Series": 12,
+    "Episodes": 128,
+    "Voice_Actor": 8,
+    "Main_Character": 36
+  },
+  "foreign_key_violations": 0,
+  "episode_sequence_gaps": 0,
+  "air_dates_before_release_year": 0,
+  "rejected_invalid_operations": [
+    "orphan series",
+    "invalid rating",
+    "duplicate episode",
+    "negative duration",
+    "restricted parent delete",
+    "invalid role"
+  ],
+  "analysis_queries": [
+    {
+      "analysis": "Series by primary genre",
+      "rows": 5
+    },
+    {
+      "analysis": "Studio output and mean score",
+      "rows": 4
+    },
+    {
+      "analysis": "Highest rated series",
+      "rows": 5
+    },
+    {
+      "analysis": "Episode coverage and runtime",
+      "rows": 12
+    },
+    {
+      "analysis": "Actor workload across series",
+      "rows": 8
+    },
+    {
+      "analysis": "Cast directory",
+      "rows": 36
+    },
+    {
+      "analysis": "Annual release trend",
+      "rows": 5
+    },
+    {
+      "analysis": "Rank within each genre",
+      "rows": 12
+    },
+    {
+      "analysis": "Series above overall mean score",
+      "rows": 6
+    },
+    {
+      "analysis": "Episode number gaps; zero rows expected",
+      "rows": 0
+    }
+  ],
+  "mysql_execution": "Not run locally: MySQL server/client unavailable. GitHub Actions workflow provided for MySQL 8.4 execution."
+}
